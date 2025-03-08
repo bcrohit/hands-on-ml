@@ -1,2 +1,2 @@
-# hands-on-ml
+# Hands on Machine Learning
 Machine Learning exercises.
